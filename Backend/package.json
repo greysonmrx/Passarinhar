@@ -1,10 +1,10 @@
 {
-  "name": "Passarinhar_Backend",
+  "name": "backpack",
   "version": "1.0.0",
   "description": "API developed to Clube Passarinhar.",
   "main": "src/server.js",
-  "repository": "https://github.com/greysonmrx/Passarinhar-Backend.git",
-  "author": "Greyson & Everton",
+  "repository": "https://github.com/greysonmrx/Passarinhar.git",
+  "author": "Greyson",
   "license": "MIT",
   "private": true,
   "scripts": {
