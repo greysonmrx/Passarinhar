@@ -27,7 +27,6 @@
 </div>
 
 <div align="center" style="display: flex; justify-content: space-between; margin-top: 50px;">
-  <img src="./s6.jpeg" alt="Screenshot" width="40%"/>
   <img src="./s7.PNG" alt="Screenshot" height="400px"/>
 </div>
 
