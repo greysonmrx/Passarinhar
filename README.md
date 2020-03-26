@@ -32,8 +32,6 @@
 
 ## Features
 
-A Node.js API built with Express and all the latest tools and best practices in development!
-
 - **React Js** — A JavaScript library for building user interfaces
 - **React Native** — A lib that provides a way to create native apps for Android and iOS
 - **Node Js** — A web framework for Node Js
